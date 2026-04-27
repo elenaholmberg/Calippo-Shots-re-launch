@@ -26,19 +26,13 @@ Vi använder:
 🐛 bug(createHTML.ts): correct the placement for images  
 
 
-## 🧾 Conventional commits
+### 🧾 Conventional commits
 
 Tänk:
 
 > If applied, this commit will…
 
-### Exempel
-- feat(a11y): add keyboard accessibility in nav bar  
-- refactor(css): unify css naming conventions  
-
----
-
-## 🔤 Commit-typer
+### 🔤 Commit-typer
 
 - fix: Buggfixar  
 - feat: Ny feature  
