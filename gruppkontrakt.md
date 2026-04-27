@@ -86,7 +86,7 @@ Vilken roll brukar varje gruppmedlem ta på sig i ett grupparbete? Vilken roll h
 - **Pepparen:** Positiv, empatisk, skapar god stämning.
 - **Dörrvakten/Processledaren:** Säkerställer deltagande, hanterar diskussionen.
 
-- # Elena
+- ### Elena
 Vid stress
 Jobbar ibland som bäst när jag är lite stressad. Har jag för mycket tid kan jag ibland bli lite ofokuserad.
 Vid för mycket stress blir det lätt lite kortslutning och jag vill lösa problemen själv genom att grotta ner mig i problemet och hitta lösningar. Har ibland svårt när det blir för långa diskussioner om något och det känns som man står och stampar på samma ställe utan att komma framåt. 
@@ -95,7 +95,7 @@ Roll i grupparbetet
 Innovatören/Idésprutan: Kreativ, fantasifull, ser nya lösningar. 
 Lagspelaren/Samordnaren: Samarbetsvillig, diplomatisk, stöttande. 
 
-- # Minai
+- ### Minai
 Vid stress
 
 
@@ -104,7 +104,7 @@ Roll i grupparbetet
 
 
 
-- # Rasmus
+- ### Rasmus
 Vid stress
 
 
@@ -113,7 +113,7 @@ Roll i grupparbetet
 
 
 
-- # Jenny
+- ### Jenny
 Vid stress
 
 
@@ -158,10 +158,10 @@ Om ni vill ta upp någonting utöver det fördefinierade. Skriv gärna en egen r
 ### Underskrifter
 Slutligen ska ni signera dokumentet med era underskrifter.
 
-Jenny
-Rasmus
-Minai
-Elena Holmberg https://github.com/elenaholmberg
+- ### Jenny
+- ### Rasmus
+- ### Minai
+- ### Elena Holmberg https://github.com/elenaholmberg
 
 
 ## Att jobba i grupp
