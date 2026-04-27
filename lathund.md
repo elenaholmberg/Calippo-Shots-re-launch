@@ -11,6 +11,7 @@
 { "tabWidth": 2, "singleQuote": true }
 💾 Hur vi commitar
 
+## Hur vi commitar
 Vi använder oss av gitmoji samt conventional commits.
 
 Exempel
@@ -24,15 +25,6 @@ Ett bra sätt att formulera commits:
 
 "If applied, this commit will…"
 
-Exempel
-feat(a11y): add keyboard accessibility in nav bar
-refactor(css): unify css naming conventions
-📐 Struktur
-typ(kontext): beskrivning
-Exempel
-fix(css): body horizontal overflow
-feat(css): nav closing transition
-docs: update README
 🔤 Commit-typer
 fix: Buggfixar
 feat: Ny feature
@@ -51,9 +43,9 @@ revert: Ångra commit
 
 Tid: Kl 09:00 varje dag
 
-Vad gjorde jag igår?
-Vad ska jag göra idag?
-Har jag några problem jag behöver hjälp med?
+- Vad gjorde jag igår?
+- Vad ska jag göra idag?
+- Har jag några problem jag behöver hjälp med?
 
 
 ## 📅 Sprint Planning
@@ -74,7 +66,6 @@ Story Point	Beskrivning	Tidsåtgång
 
 Tid: Fredag efter standup
 
-Vad har funkat bra?
-Vad har funkat mindre bra?
-
-📌 Använd Miro: https://miro.com/welcomeonboard/dFRrUGdrSDlMamVmY1VXczR6UHZVUjZFVW5WR0ZWTDN6cUl2Y2NYZDhnM3hzQUtZSXhuNEFmS0tSMzEvUGFjcDZsb05maWtHVU9OMFBOTUxCOERPdzRnZTI4STVKZXB2VWpHYml1NHZSOWNWTWRqYkgrN1p0WGtKWXdESWRzT0N0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=650695894842
+- Vad har funkat bra?
+- Vad har funkat mindre bra?
+- 📌 Använd Miro: https://miro.com/welcomeonboard/dFRrUGdrSDlMamVmY1VXczR6UHZVUjZFVW5WR0ZWTDN6cUl2Y2NYZDhnM3hzQUtZSXhuNEFmS0tSMzEvUGFjcDZsb05maWtHVU9OMFBOTUxCOERPdzRnZTI4STVKZXB2VWpHYml1NHZSOWNWTWRqYkgrN1p0WGtKWXdESWRzT0N0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=650695894842
