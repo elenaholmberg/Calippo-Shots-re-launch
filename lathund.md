@@ -11,26 +11,20 @@ En snabb guide för hur vi jobbar tillsammans i projektet
 
 ## 🎨 Prettier-inställningar
 ```json
-{ "tabWidth": 2, "singleQuote": true }## 💾 Hur vi commitar
+{ "tabWidth": 2, "singleQuote": true }
 ```
 
----
 
-## Commits
+## 💾 Hur vi commitar
 
 Vi använder:
-- gitmoji  
+- gitmoji: https://gitmoji.dev/
 - conventional commits  
-
----
 
 ### Exempel
 
 🐛 bug(createHTML.ts): correct the placement for images  
 
-https://gitmoji.dev/
-
----
 
 ## 🧾 Conventional commits
 
@@ -74,9 +68,8 @@ Tänk:
 - Tid: Måndag efter standup  
 - Uppgift: Räkna ut teamets story point-kapacitet  
 
----
 
-## 📊 Story points
+### 📊 Story points
 
 | SP  | Beskrivning            | Tidsåtgång              |
 |-----|------------------------|--------------------------|
