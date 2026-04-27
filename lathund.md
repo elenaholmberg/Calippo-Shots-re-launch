@@ -2,6 +2,21 @@
 
 En snabb guide för hur vi jobbar tillsammans i projektet
 
+## Installationer
+- Använd normalize.css för att få sidorna att se enhetliga ut i samtliga webbläsare: https://necolas.github.io/normalize.css/
+
+---
+
+## Gitignore
+- Lägg till .DS_STORE (och andra systemfiler) i .gitignore, de behövs inte i repot. Det gäller också t.ex. .map-filer som genereras för CSS.
+
+---
+
+## Övrigt
+- Width och height på alla bilder
+- Använd rem för fontsize
+
+---
 
 ## 🗣️ Språk
 - Case: `kebab-case`  
