@@ -139,9 +139,30 @@ Vecka 1: Minai
 - Hur kommenterar vi vår kod?: Engelska
 - Ska vi använda några linters (ESLint, Prettier, Biome…?): Prettier
 
+Här finns dokumentationen för Conventional Commits
+Du kan även komplettera med gitmoji om du vill, men det är inget krav!
+Conventional commits används såhär:
+vad(kontext): beskrivning
+Exempel:
+fix(css): body horizontal overflow
+feat(css): nav closing transition
+docs: update README
+De typerna som finns/används är:
+fix: - Buggfixar, fel
+feat: - En ny feature/någonting nytt läggs till i koden/projektet
+feat!: - Någonting kommer att sluta fungera i äldre versioner (breaking change), det är själva utropstecknet som betecknar detta
+build: eller chore: - När det har att göra med själva "bygg-systemet" (Vite, npm, osv.)
+ci: - CI = continuous integration, t.ex. för att publicera på GitHub Pages.
+docs: - När dokumentation uppdateras, t.ex. README eller kommentarer i koden
+style: - Ej CSS, utan t.ex. semikolon som saknas, att köra lintern, osv.
+refactor: - Skriva om kod
+perf: - Förbättra programmets prestanda/laddningstid
+test: - Skriva, uppdatera, förbättra (automatiserade) tester
+revert: - När man behöver göra en revert i git (backa koden)
+
 ### Underskrifter
 
 - ### Jenny
-- ### Rasmus
+- ### Rasmus Fransson https://github.com/RasmusFranssonHub
 - ### Minai Karlsson https://github.com/minza-42
 - ### Elena Holmberg https://github.com/elenaholmberg
