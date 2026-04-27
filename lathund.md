@@ -49,6 +49,27 @@ Tänk:
 
 ---
 
+### Pull-requests
+
+Döp förgreningarna till den feature ni jobbar med. T.ex. (och gärna med webbvänlig namngivning):
+
+- header-navigation
+- header-hamburger-clickability
+- front-page-hero-image
+- product-carousel
+osv.
+
+Om du vill att någon ska kolla på din PR, sätt personen som en “reviewer”.
+
+Assignee skapar t.ex. onödiga notiser & taggningar, om ni inte kommit överens om att varje person i gruppen ska granska varje PR.
+
+Ta en skärmdump på förändringen om den är visuell och klistra in i beskrivningen för PR:en. På GitHub kan du smidigt klistra in bilden direkt ur datorns minne; du behöver inte gå via ett bildbehandlingsprogram utan det räcker med Ctrl/Cmd + V för att klistra in bilden.
+
+Ta en skärmdump på Mac: Cmd + Ctrl + Shift + 4 (då kan du dra ut en ruta på skärmen, och den sparas i minnet - klistra sedan in med Cmd + V)
+Ta en skärmdump på Windows: Använd t.ex. "Print Screen"-knappen på tangentbordet, eller "Snipping Tool"-programmet.
+Behöver du visa hur något fungerar med interaktion, kan du göra en smidig inspelning via gifcap.dev.
+
+
 ## 🗓️ Daily standup
 
 - Tid: 09:00 varje dag  
