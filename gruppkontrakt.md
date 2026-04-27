@@ -10,6 +10,18 @@ Det är fritt att lägga till/ta bort, men det finns en extremt tydlig koppling 
 ## Kontraktets innehåll
 
 ### Tidigare grupparbeteserfarenheter
+1. Bristande engagemang och deltagande
+Frånvaro: Medlemmar som inte dyker upp på möten eller som är omöjliga att få tag på.
+Arbetsinsats: Personer som inte bidrar till de gemensamma arbetsuppgifterna eller "drar sitt strå till stacken".
+Förberedelse: Brist på engagemang genom att komma oförberedd till det som ska göras.
+2. Kommunikation och samarbetsförmåga
+Bristfällig dialog: Allmänt dålig kommunikation eller medlemmar som helt slutar kommunicera.
+Attityd: Ett negativt bemötande av nya idéer istället för att vara öppen för gruppens olika synpunkter.
+Kompromisslöshet: Personer som inte är villiga att mötas halvvägs utan enbart vill driva igenom sin egen vilja.
+3. Ansvar och tillit
+Brustna löften: Personer som inte håller vad de har lovat gruppen.
+Passivitet: Att inte ta ansvar för sin del i grupparbetet, vilket påverkar helheten.
+
 - Vilka är respektive gruppmedlems top 3 sämsta erfarenheter med grupparbeten? Vilka "negativa förväntningar" kommer ni in i detta med?
 
 > Exempel: Personer gör inte det dom har lovat inom utsatt tid, och säger att "dom jobbar på det", men det blir aldrig klart.
@@ -74,6 +86,44 @@ Vilken roll brukar varje gruppmedlem ta på sig i ett grupparbete? Vilken roll h
 - **Pepparen:** Positiv, empatisk, skapar god stämning.
 - **Dörrvakten/Processledaren:** Säkerställer deltagande, hanterar diskussionen.
 
+- Elena
+Vid stress
+Jobbar ibland som bäst när jag är lite stressad. Har jag för mycket tid kan jag ibland bli lite ofokuserad.
+Vid för mycket stress blir det lätt lite kortslutning och jag vill lösa problemen själv genom att grotta ner mig i problemet och hitta lösningar. Har ibland svårt när det blir för långa diskussioner om något och det känns som man står och stampar på samma ställe utan att komma framåt. 
+
+Roll i grupparbetet
+Innovatören/Idésprutan: Kreativ, fantasifull, ser nya lösningar. 
+Lagspelaren/Samordnaren: Samarbetsvillig, diplomatisk, stöttande. 
+
+- Minai
+Vid stress
+
+
+
+Roll i grupparbetet
+
+
+
+- Rasmus
+Vid stress
+
+
+
+Roll i grupparbetet
+
+
+
+- Jenny
+Vid stress
+
+
+
+Roll i grupparbetet
+
+
+
+
+
 ### Uppgiftsfördelning
 - Hur fördelas uppgifter?
 - Hur kommunicerar man när man tar på sig en uppgift utanför daily standupen, eller ska man vänta till standupen?
@@ -107,6 +157,11 @@ Om ni vill ta upp någonting utöver det fördefinierade. Skriv gärna en egen r
 
 ### Underskrifter
 Slutligen ska ni signera dokumentet med era underskrifter.
+
+Jenny
+Rasmus
+Minai
+Elena Holmberg https://github.com/elenaholmberg
 
 
 ## Att jobba i grupp
