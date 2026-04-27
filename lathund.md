@@ -14,6 +14,7 @@ En snabb guide för hur vi jobbar tillsammans i projektet
 { "tabWidth": 2, "singleQuote": true }
 ```
 
+---
 
 ## 💾 Hur vi commitar
 
