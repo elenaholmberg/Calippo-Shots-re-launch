@@ -162,7 +162,7 @@ revert: - När man behöver göra en revert i git (backa koden)
 
 ### Underskrifter
 
-- ### Jenny
+- ### Jenny Gustafsson https://github.com/jennygustafsson
 - ### Rasmus Fransson https://github.com/RasmusFranssonHub
 - ### Minai Karlsson https://github.com/minza-42
 - ### Elena Holmberg https://github.com/elenaholmberg
