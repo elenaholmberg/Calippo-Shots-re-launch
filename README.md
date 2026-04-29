@@ -78,10 +78,9 @@ Varje kort ska innehålla:
 ---
 
 ## 4) Interaktioner
-### Produktbilder / kort
-- Standard: GB-bilder i svartvitt
+- GB-loggan ska implementeras som SVG.
 - Hover:  - ramen runt produktkort/bild markeras tydligt
-  
+
 
 ---
 ## 5) Responsivitet
@@ -96,7 +95,7 @@ Sidan ska testas i tre lägen:
 - [ ] Header matchar Figma
 - [ ] Hero med responsiv headerbild fungerar på alla devices
 - [ ] 3 produktkort är korrekt byggda
-- [ ] GB-bilder är svartvita i standardläge
+- [ ] GB-bilder som SVG
 - [ ] Hover-ram fungerar på produktkort/bilder
 - [ ] Feature-sektion är klar
 - [ ] Citat-sektion är klar
