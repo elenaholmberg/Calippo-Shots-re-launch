@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/j3SJFt0N
 
+## Länk till Figma: https://www.figma.com/design/8tzhvZMDsuYsAH05k0I9oI/Bleed---Trim?node-id=0-1&t=kDnZuHRMov2b9gtu-1
 
 ## 1) Uppgift
 Koda en responsiv kampanjsida utifrån Figma-designen.  
