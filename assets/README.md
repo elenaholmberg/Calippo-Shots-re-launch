@@ -112,25 +112,6 @@ Sidan ska testas i tre lägen:
 - [ ] Sidan matchar Figma visuellt i mobil, tablet, desktop
 
 
-## Om vår design
 
-Vi har tagit fram tre versioner av designen i Figma för att visa hur sidan anpassas till olika enheter:
-- **Desktop:** Full version med bred layout och tydlig uppdelning av sektioner.
-- **Tablet:** Mellanläge där innehållet skalas om och omstruktureras för bättre läsbarhet.
-- **iPhone (mobil):** Mobilanpassad version med större fokus på scroll och tydlig touchvänlig navigation.
-Syftet med dessa tre Figma-bilder är att säkerställa att kampanjsidan fungerar visuellt och användarmässigt på flera skärmstorlekar.
-
-
-När vi gjorde designen ville vi att sidan skulle kännas som en kampanj för GB/Calippo: färgstark, sommrig och lätt att förstå.
-I början diskuterade vi att bygga designen med en tydlig retrostil inspirerad av äldre GB-kampanjer. Efter att ha testat den riktningen valde vi istället en mer modern känsla, eftersom den gav bättre läsbarhet, tydligare struktur.
-Vi behöll dock vissa delar av varumärkeskänslan, som färgerna och den lekfulla kampanjtonen, för att sidan fortfarande skulle kännas tydligt kopplad till GB/Calippo.
-Därför valde vi en tydlig struktur med stora bilder och korta texter, så att man snabbt ser vad produkten är och vilka smaker som finns.
-Vi använde rött som huvudfärg i header och footer eftersom det passar varumärket och skapar igenkänning.
-För att skilja smakerna åt använde vi egna accentfärger i korten (röd, grön och orange). Det gör att användaren snabbt kan jämföra produkterna utan att behöva läsa mycket text.
-Vi har försökt hålla designen enkel och tydlig. Först kommer hero-sektionen med “Årets stora nyheter”, sedan produktkorten, och efter det mer information och citat.
-Tanken är att användaren ska kunna scrolla naturligt och förstå innehållet steg för steg utan att känna att sidan är rörig.
-Typsnitt och storlekar är valda för att rubriker ska synas tydligt, samtidigt som brödtexten fortfarande är lättläst i mobil. 
-Vi lade också in enkel interaktion i produktbilderna, där ramen markeras vid hover. 
-Sammanfattningsvis har vi försökt skapa en design som känns modern, tydlig och nära varumärket, men samtidigt enkel för användaren att navigera och ta till sig snabbt.
 
 
