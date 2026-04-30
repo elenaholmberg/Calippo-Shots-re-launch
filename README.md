@@ -10,9 +10,8 @@ Sidan ska se så lik designen ut som möjligt på mobil, tablet och desktop.
 ## 2) Viktigast att följa
 1. **Layouten ska matcha Figma** (spacing, storlekar, textplacering).
 2. **Headerbilden/hero-bilden ska fungera på alla devices** utan att viktig del av bilden försvinner.
-3. **GB-bilder ska vara svartvita i standardläge**.
-4. **Produktkortens ramar ska markeras vid hover**.
-5. Sidan ska vara semantiskt korrekt och ha `alt`-texter.
+3. **Produktkortens ramar ska markeras vid hover**.
+4. Sidan ska vara semantiskt korrekt och ha `alt`-texter.
 ---
 
 ## 3) Struktur som ska kodas (uppifrån och ner)
