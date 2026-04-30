@@ -81,6 +81,15 @@ Varje kort ska innehålla:
 - GB-loggan ska implementeras som SVG.
 - Hover:  - ramen runt produktkort/bild markeras tydligt
 
+## Cookie-banner – knappar
+Knapparna i cookie-bannern (`Anpassa`, `Avvisa alla`, `Acceptera alla cookies`) ska vara fungerande klickbara knappar och ha tydliga hover-states.
+
+### Krav
+- Alla tre knappar ska kunna klickas.
+- Hover ska ge visuell feedback (t.ex. färgändring, border eller skugga).
+- Knapparna ska ha samma stil och storlek som i Figma.
+- Fokusläge (focus state) ska vara synligt för tangentbordsnavigering.
+
 
 ---
 ## 5) Responsivitet
@@ -114,6 +123,8 @@ Syftet med dessa tre Figma-bilder är att säkerställa att kampanjsidan fungera
 
 
 När vi gjorde designen ville vi att sidan skulle kännas som en kampanj för GB/Calippo: färgstark, sommrig och lätt att förstå.
+I början diskuterade vi att bygga designen med en tydlig retrostil inspirerad av äldre GB-kampanjer. Efter att ha testat den riktningen valde vi istället en mer modern känsla, eftersom den gav bättre läsbarhet, tydligare struktur.
+Vi behöll dock vissa delar av varumärkeskänslan, som färgerna och den lekfulla kampanjtonen, för att sidan fortfarande skulle kännas tydligt kopplad till GB/Calippo.
 Därför valde vi en tydlig struktur med stora bilder och korta texter, så att man snabbt ser vad produkten är och vilka smaker som finns.
 Vi använde rött som huvudfärg i header och footer eftersom det passar varumärket och skapar igenkänning.
 För att skilja smakerna åt använde vi egna accentfärger i korten (röd, grön och orange). Det gör att användaren snabbt kan jämföra produkterna utan att behöva läsa mycket text.
