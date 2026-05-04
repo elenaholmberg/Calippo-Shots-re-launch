@@ -1,0 +1,17 @@
+@import './base/reset.css';
+@import './base/variables.css';
+@import './base/typography.css';
+@import './base/base.css';
+
+@import './layout/header.css';
+@import './layout/footer.css';
+@import './layout/hero.css';
+@import './layout/productsection.css';
+@import './layout/reviewsection.css';
+
+
+@import './components/buttons.css';
+@import './components/cards.css';
+@import './components/inputs.css';
+@import './components/icons.css';
+@import './components/cookies.css';
