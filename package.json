@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.4.14",
     "vite": "^8.0.10"
   }
 }
