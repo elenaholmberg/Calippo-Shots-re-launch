@@ -39,4 +39,15 @@
 	--font-size-small: 0.813rem; /* 13px, mobile size */
 
 	--line-height-base: 1;
+
+	/* ------------------------------
+	   --------- SPACING ------------
+	   ------------------------------ */
+	   
+	/* Columns spacing */
+	--space-xs: 4px;
+  	--space-sm: 8px;
+  	--space-md: 16px;
+	
+	--space-lg: 34px; /* Spacing between sections */
 }
