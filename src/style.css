@@ -1,18 +1,18 @@
 @import "node_modules/modern-normalize/modern-normalize.css";
 
-@import "./base/reset.css";
-@import "./base/variables.css";
-@import "./base/typography.css";
-@import "./base/base.css";
+@import './css/base/variables.css';
+@import './css/base/reset.css';
+@import './css/base/typography.css';
+@import './css/base/base.css';
 
-@import "./layout/header.css";
-@import "./layout/footer.css";
-@import "./layout/hero.css";
-@import "./layout/productsection.css";
-@import "./layout/reviewsection.css";
+@import "./css/layout/header.css";
+@import "./css/layout/footer.css";
+@import "./css/layout/hero.css";
+@import "./css/layout/productsection.css";
+@import "./css/layout/reviewsection.css";
 
-@import "./components/buttons.css";
-@import "./components/cards.css";
-@import "./components/inputs.css";
-@import "./components/icons.css";
-@import "./components/cookies.css";
+@import "./css/components/buttons.css";
+@import "./css/components/cards.css";
+@import "./css/components/inputs.css";
+@import "./css/components/icons.css";
+@import "./css/components/cookies.css";
