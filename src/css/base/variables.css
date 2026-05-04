@@ -1,0 +1,16 @@
+/* DESIGN TOKENS */
+:root {
+    /* Primary */
+    --color-white: #ffffff;
+    --color-primary-red: #e40001; 
+
+    /* Secondary */
+    --color-citrus-yellow: #ffc934;
+    --color-fanta-orange: #ff9e2a;
+    --color-sprite-green: #6c7a36;
+    --color-cola-red: #f36359;
+
+    /* Text */
+    --color-text-primary: #000000;
+    --color-text-secondary: #D10903;
+}
