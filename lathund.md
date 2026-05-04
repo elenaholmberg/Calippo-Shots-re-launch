@@ -1,6 +1,6 @@
 # 📘 Lathund för grupparbete
 
-En snabb guide för hur vi jobbar tillsammans i projektet
+En snabb guide för hur vi jobbar tillsammans i projektet.
 
 ## Installationer
 - Använd normalize.css för att få sidorna att se enhetliga ut i samtliga webbläsare: https://necolas.github.io/normalize.css/
