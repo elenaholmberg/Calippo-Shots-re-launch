@@ -1,5 +1,10 @@
 /* DESIGN TOKENS */
 :root {
+
+    /* ------------------------------
+       ---------- COLORS ------------
+       ------------------------------ */
+
     /* Primary */
     --color-white: #ffffff;
     --color-primary-red: #e40001; 
@@ -12,5 +17,27 @@
 
     /* Text */
     --color-text-primary: #000000;
-    --color-text-secondary: #D10903;
+
+    /* ------------------------------
+       -------- TYPOGRAPHY ----------
+       ------------------------------ */
+
+    /* Font family */
+    --font-family-base: 'Kodchasan', sans-serif;
+
+    /* Font sizes weight */
+    --font-weight-regular: 400;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+
+    /* Font sizes size (desktop) */
+    --font-size-h1: 5.125rem; /* 82px */
+    --font-size-h2: 2.8125rem; /* 45px */
+    --font-size-h3: 2.25rem; /* 36px */
+    --font-size-h4: 1.6875rem; /* 27px */
+
+    --font-size-body: 1.25rem; /* 20px */
+    --font-size-small: 0.813rem; /* 13px, mobile size */
+
+    --line-height: 1;
 }

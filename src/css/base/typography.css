@@ -1,0 +1,53 @@
+body {
+	font-family: var(--font-family-base);
+	font-size: var(--font-size-body);
+	line-height: var(--line-height-base);
+}
+
+/* Mobile default */
+h1 {
+	font-size: 1.875rem; /* 30px */
+	font-weight: var(--font-weight-semibold);
+	line-height: var(--line-height-tight);
+}
+
+h2 {
+	font-size: 1.125rem; /* 18px */
+	font-weight: var(--font-weight-semibold);
+	line-height: 1.2;
+}
+
+h3 {
+	font-size: 1rem;
+	font-weight: var(--font-weight-semibold);
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+	h1 {
+		font-size: 4rem; /* 64px */
+	}
+
+	h2 {
+		font-size: 1.1875rem; /* 19px */
+	}
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+	h1 {
+		font-size: var(--font-size-h1);
+	}
+
+	h2 {
+		font-size: var(--font-size-h2);
+	}
+
+	h3 {
+		font-size: var(--font-size-h3);
+	}
+
+	h4 {
+		font-size: var(--font-size-h4);
+	}
+}
