@@ -152,24 +152,35 @@
 		</p>
 	</footer>
 
-	<dialog id="cookies">
-		<h2>
-			Vi värdesätter din integritet
-			<img src="/assets/svg/cookie.svg" alt="Cookie icon">
-		</h2>
-		<p>
-			Vi använder nödvändiga cookies för att ge dig den bästa möjliga
-			shoppingupplevelsen. Med ditt samtycke kan vi också använda
-			icke-nödvändiga cookies för att förbättra användarupplevelsen och
-			analysera webbplatstrafik. Genom att acceptera samtycker du till vår
-			användning av cookies enligt beskrivningen i vår
-			<a href="">cookiepolicy</a>. Du kan när som helst ändra dina
-			cookieinställningar genom att klicka på "Anpassa".
-		</p>
-		<div>
-			<button type="button">Anpassa</button>
-			<button type="button">Avvisa alla</button>
-			<button type="button">Acceptera alla cookies</button>
+	<dialog class="cookie-dialog" id="cookies" aria-labelledby="cookie-title" open>
+		<div class="cookie-dialog__content">
+
+			<h2 class="cookie-dialog__title" id="cookie-title">
+				Vi värdesätter din integritet
+				<img src="/assets/svg/cookie.svg" alt="Cookie icon">
+			</h2>
+
+			<p class="cookie-dialog__text">
+				Vi använder nödvändiga cookies för att ge dig den bästa möjliga
+				shoppingupplevelsen. Med ditt samtycke kan vi också använda
+				icke-nödvändiga cookies för att förbättra användarupplevelsen och
+				analysera webbplatstrafik. Genom att acceptera samtycker du till vår
+				användning av cookies enligt beskrivningen i vår
+				<a href="#cookiepolicy" class="cookie-dialog__link">cookiepolicy</a>. Du kan när som helst ändra dina
+				cookieinställningar genom att klicka på "Anpassa".
+			</p>
+
+			<div class="cookie-dialog__actions">
+				<button type="button" class="cookie-dialog__button cookie-dialog__button--secondary"
+					data-cookie-customize>Anpassa</button>
+
+				<button type="button" class="cookie-dialog__button cookie-dialog__button--primary"
+					data-cookie-reject>Avvisa alla</button>
+
+				<button type="button" class="cookie-dialog__button cookie-dialog__button--primary"
+					data-cookie-accept>Acceptera alla
+					cookies</button>
+			</div>
 		</div>
 	</dialog>
 	<script type="module" src="/src/main.js"></script>
