@@ -3,9 +3,17 @@
     ------------------------------ */
 
 .cookie-dialog {
+	position: fixed;
+
+	top: auto;
+	bottom: 36px;
+	left: 0;
+
 	width: 100%;
 	max-width: none;
+
 	padding: 0;
+	margin: 0;
 
 	color: var(--color-text-primary);
 	background-color: var(--color-white);
@@ -13,7 +21,7 @@
 }
 
 .cookie-dialog::backdrop {
-	background-color: rgb(0 0 0 / 90%);
+	background-color: rgb(0 0 0 / 80%);
 }
 
 .cookie-dialog__content {
