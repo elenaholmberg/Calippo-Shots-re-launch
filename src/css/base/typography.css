@@ -8,13 +8,13 @@ body {
 h1 {
 	font-size: 1.875rem; /* 30px */
 	font-weight: var(--font-weight-semibold);
-	line-height: var(--line-height-tight);
+	line-height: var(--line-height);
 }
 
 h2 {
 	font-size: 1.125rem; /* 18px */
 	font-weight: var(--font-weight-semibold);
-	line-height: 1.2;
+	line-height: var(--line-height);
 }
 
 h3 {
