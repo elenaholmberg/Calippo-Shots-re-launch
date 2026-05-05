@@ -10,10 +10,40 @@
 
 h1 {
 	position: relative;
-	left: 100px;
+	left: 80px;
 	display: block;
 	font-size: 3rem;
 	color: white;
 	text-align: left;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsive adjustments for smaller screens */
+.desktop-break {
+	display: block;
+}
+
+@media (max-width: 768px) {
+	.desktop-break {
+		display: none;
+	}
+
+	.Hero {
+		height: auto;
+		min-height: 55vh;
+		padding: 64px 20px 40px;
+		background-repeat: no-repeat;
+		background-position: right 20% center;
+		background-size: cover;
+	}
+
+	h1 {
+		position: relative;
+		top: -100px;
+		left: 0;
+		max-width: 22ch;
+		margin: 0 auto;
+		font-size: 2rem;
+		text-align: center;
+	}
 }
