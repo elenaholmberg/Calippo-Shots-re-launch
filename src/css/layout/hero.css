@@ -1,7 +1,7 @@
 .Hero {
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-start;
 	height: 100vh;
 	background-image: url("/assets/png/header 4 4.png");
 	background-position: center;
@@ -10,8 +10,10 @@
 
 h1 {
 	position: relative;
+	left: 100px;
+	display: block;
 	font-size: 3rem;
 	color: white;
-	text-align: center;
+	text-align: left;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
