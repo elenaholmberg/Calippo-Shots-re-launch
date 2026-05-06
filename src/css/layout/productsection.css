@@ -11,6 +11,10 @@
 	gap: 1rem;
 }
 
+.products__cards {
+	padding-block-start: 1rem;
+}
+
 .product--cola {
 	--_color-product: var(--color-cola-red);
 }
