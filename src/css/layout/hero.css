@@ -3,6 +3,7 @@
 	align-items: center;
 	justify-content: flex-start;
 	height: 100vh;
+	padding-bottom: var(--space-lg);
 	background-image: url("/assets/png/header 4 4.png");
 	background-position: center;
 	background-size: cover;
@@ -12,7 +13,7 @@ h1 {
 	position: relative;
 	left: 80px;
 	display: block;
-	font-size: 3rem;
+	font-size: var(--font-size-h1);
 	color: white;
 	text-align: left;
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
