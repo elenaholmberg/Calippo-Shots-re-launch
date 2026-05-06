@@ -43,11 +43,11 @@
 	/* ------------------------------
 	   --------- SPACING ------------
 	   ------------------------------ */
-	   
+
 	/* Columns spacing */
 	--space-xs: 4px;
-  	--space-sm: 8px;
-  	--space-md: 16px;
-	
+	--space-sm: 8px;
+	--space-md: 16px;
+
 	--space-lg: 34px; /* Spacing between sections */
 }
