@@ -45,6 +45,7 @@ li {
 	display: flex;
 	margin-top: 91px;
 	margin-left: 92px;
+	font-size: var(--font-size-small);
 }
 
 .footer__copyright {
@@ -52,4 +53,9 @@ li {
 	margin-top: 91px;
 	margin-left: 92px;
 	font-size: var(--font-size-small);
+}
+
+.footer__subscribe-text {
+	display: inline-block;
+	margin-bottom: var(--space-md);
 }
