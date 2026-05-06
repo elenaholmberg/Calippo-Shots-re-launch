@@ -1,5 +1,6 @@
 footer {
 	display: flex;
+	flex-direction: column;
 	padding-top: var(--space-lg);
 	padding-bottom: var(--space-lg);
 	color: white;
@@ -13,9 +14,9 @@ footer > div:first-child {
 }
 
 .gb_logo {
-	width: 150px;
+	width: 250px;
 	height: auto;
-	margin-top: 91px;
+	margin-top: 21px;
 	margin-left: 92px;
 }
 
@@ -24,8 +25,31 @@ footer > div:first-child {
 	gap: var(--space-lg);
 }
 
+.footer__title {
+	margin-bottom: var(--space-md);
+	font-size: var(--font-size-body);
+	font-weight: var(--font-weight-semibold);
+}
+
+li {
+	font-size: var(--font-size-small);
+}
+
 .footer__info {
 	display: flex;
 	flex-direction: row;
 	gap: var(--space-lg);
+}
+
+.footer__subscribe {
+	display: flex;
+	margin-top: 91px;
+	margin-left: 92px;
+}
+
+.footer__copyright {
+	display: inline-block;
+	margin-top: 91px;
+	margin-left: 92px;
+	font-size: var(--font-size-small);
 }
