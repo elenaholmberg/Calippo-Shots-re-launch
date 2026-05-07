@@ -80,10 +80,12 @@ ul {
 
 .footer__social-icon--instagram:hover {
 	content: url("/assets/svg/instagram-hover.svg");
+	filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.591));
 }
 
 .footer__social-icon--facebook:hover {
 	content: url("/assets/svg/facebook-hover.svg");
+	filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.591));
 }
 
 .footer__subscribe {
@@ -102,4 +104,19 @@ ul {
 	font-size: var(--font-size-small);
 	border: none;
 	border-radius: 15px;
+}
+
+.footer__button {
+	padding: var(--space-sm) var(--space-md);
+	font-size: var(--font-size-small);
+	color: var(--color-secondary-white);
+	cursor: pointer;
+	background-color: #ff9e2a;
+	border: none;
+	border-radius: 15px;
+	transition: 0.2s ease;
+}
+
+.footer__subscribe-input:not(:placeholder-shown) + .footer__button {
+	filter: drop-shadow(5px 0px 10px rgba(46, 46, 46, 0.591));
 }
