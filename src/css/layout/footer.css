@@ -27,12 +27,8 @@ footer > div:first-child {
 
 .footer__title {
 	margin-bottom: var(--space-md);
-	font-size: var(--font-size-body);
+	font-size: var(--font-size-h4);
 	font-weight: var(--font-weight-semibold);
-}
-
-li {
-	font-size: var(--font-size-small);
 }
 
 .footer__info {
@@ -58,4 +54,20 @@ li {
 .footer__subscribe-text {
 	display: inline-block;
 	margin-bottom: var(--space-md);
+}
+
+.footer__products,
+.footer__about,
+.footer__customer-service,
+.footer__follow-us {
+	display: flex;
+	flex-direction: column;
+	padding-left: 100px;
+	text-align: left;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
 }
