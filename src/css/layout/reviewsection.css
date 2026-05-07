@@ -20,9 +20,11 @@
 
 .Reviews__content {
 	position: absolute;
-    width: 220px;
-	top: 40px;
-	left: 40px;
+
+	width: clamp(210px, 48vw, 660px);
+
+	top: clamp(10px, 8vw, 70px);
+	left: clamp(35px, 11vw, 60px);
 
 	display: flex;
 	flex-direction: column;
@@ -30,42 +32,45 @@
 
 .Reviews__quote {
 	font-family: "Kodchasan", sans-serif;
-	font-size: 43.84px;
+
+	font-size: clamp(44px, 2vw, 68px);
 	font-weight: 700;
 	line-height: 1;
 
 	color: var(--color-primary-red);
 
 	position: absolute;
+
 	top: -10px;
 	left: -20px;
 
 	transform: rotate(180deg);
 }
+
 .Reviews__stars {
 	display: flex;
+
 	margin-bottom: -10px;
 }
 
 .Reviews__stars img {
-	width: 11px;
-	height: 11px;
+	width: clamp(11px, 5vw, 16px);
+	height: clamp(11px, 5vw, 16px);
 }
 
 .Reviews__text {
-	font-size: 10px;
+	font-size: clamp(10px, 2.8vw, 18px);
 	font-weight: 600;
 	line-height: 1.4;
 }
 
 .Reviews__author {
-	font-size: 9px;
+	font-size: clamp(9px, 2.8vw, 18px);
 	font-weight: 700;
 }
 
 @media (min-width: 768px) {
 	.Reviews {
-		width: 100%;
 		max-width: 838px;
 
 		aspect-ratio: 838 / 235;
@@ -76,43 +81,17 @@
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
-
-		position: relative;
 	}
 
+
 	.Reviews__quote {
-		font-family: "Kodchasan", sans-serif;
-
-		font-size: 68px;
-		font-weight: 700;
-		line-height: 1;
-
-		top: 28px;
-		left: 12px;
+		top: -18px;
+		left: -34px;
 	}
 
 	.Reviews__stars {
-		display: flex;
 		gap: 2px;
 
 		margin-bottom: 0;
-	}
-
-	.Reviews__stars img {
-		width: 16px;
-		height: 16px;
-	}
-
-	.Reviews__text {
-		width: 320px;
-
-		font-size: 18px;
-		font-weight: 700;
-		line-height: 1.45;
-	}
-
-	.Reviews__author {
-		font-size: 18px;
-		font-weight: 700;
 	}
 }
