@@ -71,3 +71,16 @@ ul {
 	margin: 0;
 	list-style: none;
 }
+
+.footer__social-icon {
+	cursor: pointer;
+	transition: 0.2s ease;
+}
+
+.footer__social-icon--instagram:hover {
+	content: url("/assets/svg/instagram-hover.svg");
+}
+
+.footer__social-icon--facebook:hover {
+	content: url("/assets/svg/facebook-hover.svg");
+}
