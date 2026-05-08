@@ -1,0 +1,97 @@
+.Reviews {
+	width: 100%;
+
+	aspect-ratio: 458 / 178;
+
+	padding: clamp(16px, 4vw, 28px);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	color: var(--color-primary-red);
+
+	background-image: url("/rev-pic.svg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+	position: relative;
+}
+
+.Reviews__content {
+	position: absolute;
+
+	width: clamp(210px, 48vw, 660px);
+
+	top: clamp(10px, 8vw, 70px);
+	left: clamp(35px, 11vw, 60px);
+
+	display: flex;
+	flex-direction: column;
+}
+
+.Reviews__quote {
+	font-family: "Kodchasan", sans-serif;
+
+	font-size: clamp(44px, 2vw, 68px);
+	font-weight: 700;
+	line-height: 1;
+
+	color: var(--color-primary-red);
+
+	position: absolute;
+
+	top: -10px;
+	left: -20px;
+
+	transform: rotate(180deg);
+}
+
+.Reviews__stars {
+	display: flex;
+
+	margin-bottom: -10px;
+}
+
+.Reviews__stars img {
+	width: clamp(11px, 5vw, 16px);
+	height: clamp(11px, 5vw, 16px);
+}
+
+.Reviews__text {
+	font-size: clamp(10px, 2.8vw, 18px);
+	font-weight: 600;
+	line-height: 1.4;
+}
+
+.Reviews__author {
+	font-size: clamp(9px, 2.8vw, 18px);
+	font-weight: 700;
+}
+
+@media (min-width: 768px) {
+	.Reviews {
+		max-width: 838px;
+
+		aspect-ratio: 838 / 235;
+
+		padding: 36px;
+
+		background-image: url("/rev-pic-ipad.svg");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+
+	.Reviews__quote {
+		top: -18px;
+		left: -34px;
+	}
+
+	.Reviews__stars {
+		gap: 2px;
+
+		margin-bottom: 0;
+	}
+}
