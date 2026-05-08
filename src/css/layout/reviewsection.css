@@ -1,5 +1,7 @@
 .Reviews {
+	max-width: 1440px;
 	width: 100%;
+	margin: 0 auto;
 
 	aspect-ratio: 458 / 178;
 
@@ -93,5 +95,52 @@
 		gap: 2px;
 
 		margin-bottom: 0;
+	}
+}
+
+@media (min-width: 1200px) {
+	.Reviews {
+		max-width: 1440px;
+
+		aspect-ratio: 1440 / 349;
+
+		background-image: url("/rev-pic-desctop.svg");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	.Reviews__content {
+		width: 520px;
+
+		top: 88px;
+		left: 120px;
+	}
+
+	.Reviews__quote {
+		font-size: 82px;
+
+		top: -26px;
+		left: -42px;
+	}
+
+	.Reviews__stars {
+		gap: 4px;
+
+		margin-bottom: 6px;
+	}
+
+	.Reviews__stars img {
+		width: 22px;
+		height: 22px;
+	}
+
+	.Reviews__text {
+		font-size: 24px;
+		line-height: 1.45;
+	}
+
+	.Reviews__author {
+		font-size: 22px;
 	}
 }
