@@ -1,7 +1,7 @@
 .Reviews {
 	max-width: 1440px;
 	width: 100%;
-	margin: 0 auto;
+	margin: 28px 0;
 
 	aspect-ratio: 458 / 178;
 
@@ -83,6 +83,8 @@
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
+
+		margin: 75px 0;
 	}
 
 
@@ -108,6 +110,8 @@
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
+
+		margin-bottom: 90px;
 	}
 
 	.Reviews__content {
