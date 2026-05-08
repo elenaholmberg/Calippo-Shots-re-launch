@@ -22,6 +22,7 @@ footer > div:first-child {
 
 .footer__nav {
 	display: flex;
+	flex-wrap: wrap;
 	gap: var(--space-lg);
 }
 
@@ -199,5 +200,44 @@ ul {
 		margin: 40px auto 0;
 		font-size: 14px;
 		text-align: center;
+	}
+}
+
+@media (max-width: 1024px) {
+	footer > div:first-child {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+	}
+
+	.gb_logo {
+		width: 200px;
+		margin: 0;
+	}
+
+	.footer__nav {
+		flex-wrap: wrap;
+		gap: var(--space-md);
+		justify-content: center;
+	}
+
+	.footer__products,
+	.footer__about,
+	.footer__customer-service,
+	.footer__follow-us {
+		align-items: center;
+		padding-left: 0;
+		text-align: center;
+	}
+
+	.footer__subscribe {
+		align-items: center;
+		margin: 40px 0 0;
+	}
+
+	.footer__subscribe-form {
+		justify-content: center;
+		margin-left: 0;
+		scale: 1;
 	}
 }
