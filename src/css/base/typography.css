@@ -18,7 +18,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1rem;
+	font-size: 1.125rem;
 	font-weight: var(--font-weight-semibold);
 }
 
@@ -29,6 +29,10 @@ h3 {
 	}
 
 	h2 {
+		font-size: 1.1875rem; /* 19px */
+	}
+
+	h3 {
 		font-size: 1.1875rem; /* 19px */
 	}
 }
