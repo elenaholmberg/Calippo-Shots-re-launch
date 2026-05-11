@@ -19,7 +19,7 @@
 	background-color: var(--color-white);
 	border: none;
 
-    box-shadow: 0 -12px 32px rgb(0 0 0 / 20%);
+	box-shadow: 0 -12px 32px rgb(0 0 0 / 20%);
 }
 
 .cookie-dialog::backdrop {
@@ -177,4 +177,3 @@
 		font-size: 1.125rem;
 	}
 }
-
