@@ -5,7 +5,7 @@
 	flex-direction: column;
 	justify-content: center;
 	width: 100%;
-	max-width: 1440px;
+	/* max-width: 1440px; */
 
 	aspect-ratio: 458 / 178;
 
@@ -71,7 +71,7 @@
 
 @media (min-width: 768px) {
 	.reviews {
-		max-width: 838px;
+		/* max-width: 838px; */
 
 		aspect-ratio: 838 / 235;
 
@@ -99,7 +99,7 @@
 
 @media (min-width: 1200px) {
 	.reviews {
-		max-width: 1440px;
+		/* max-width: 1440px; */
 
 		aspect-ratio: 1440 / 349;
 
