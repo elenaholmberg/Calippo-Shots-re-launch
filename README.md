@@ -10,6 +10,11 @@ This is a one-page snapshot of a potential promotion for the return of the popul
 ![customer_review](<Screenshot 2026-05-11 165928.png>)
 ![footer](<Screenshot 2026-05-11 165936.png>)
 
+![code_validation](image.png)
+
+![lighthouse_mobile](image-1.png)
+![lighthouse_desktop](image-2.png)
+
 
 ---
 
