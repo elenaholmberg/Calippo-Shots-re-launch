@@ -1,5 +1,5 @@
 # Calippo Shots Re-launch
-## elenaholmberg.github.io/Calippo-Shots-re-launch/?
+## [elenaholmberg.github.io/Calippo-Shots-re-launch/?](https://elenaholmberg.github.io/Calippo-Shots-re-launch/?)
 
 ## About the project
 
