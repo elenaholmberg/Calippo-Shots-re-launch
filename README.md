@@ -1,74 +1,59 @@
-# calippo shots
-This is a one-page snapshot of a potential promotion for the return of the popular ice cream that got discontinued in 2020, and after rumors of its return we made this site snapshot as a suggestion for what a return could look like, with some popular flavours from the CocaCola company.
+# Calippo Shots Re-launch
 
----
+## About the project
+
+As part of a school project, we designed a **Calippo Shots re-launch website** as a team. The goal was to create a modern, playful and engaging digital experience that reflects the brand's identity. After completing the design, we created a detailed handoff with clear instructions for another group, whose assignment was to code the website.
+
+## Our process
+
+We used our **UX knowledge and agile methods** throughout the design process. We worked with target audience, user experience, structure, content and visual design, developing the concept iteratively based on our research and ideas.
+
+## Design handoff
+
+Once the design was complete, we documented and presented our work before **handing it over to another group for coding**. This gave us experience in creating a structured design handoff for developers.
+
+## What I learned
+
+* UX and user-centered design
+* Agile teamwork and collaboration
+* Visual and interaction design
+* Creating design handoffs for developers
 
 ## 📸 Demo / Screenshots
-![header/hero](<Screenshot 2026-05-05 142434.png>)
-![products](<Screenshot 2026-05-11 165900.png>)
-![products_1](<Screenshot 2026-05-11 165910.png>)
-![customer_review](<Screenshot 2026-05-11 165928.png>)
-![footer](<Screenshot 2026-05-11 165936.png>)
 
-![code_validation](image.png)
+![Header / Hero](<Screenshot 2026-05-05 142434.png>)
+![Products](<Screenshot 2026-05-11 165900.png>)
+![Products](<Screenshot 2026-05-11 165910.png>)
+![Customer Review](<Screenshot 2026-05-11 165928.png>)
+![Footer](<Screenshot 2026-05-11 165936.png>)
 
-![lighthouse_mobile](image-1.png)
-![lighthouse_desktop](image-2.png)
+![Code validation](image.png)
 
+![Lighthouse mobile](image-1.png)
+![Lighthouse desktop](image-2.png)
 
 ---
-
 
 ## 🚀 Features
 
-
+* Modern and playful Calippo Shots visual identity
+* Responsive website design
+* Product presentation
+* Customer reviews section
+* Clear navigation and structured content
+* Accessibility and performance testing
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- Javascript
-- Biome
-- Vite
-- .Json
-- pnpm
+
+* HTML
+* CSS
+* JavaScript
+* Biome
+* Vite
+* JSON
+* pnpm
 
 
----
 
-## 📁 Project Structure
-
-```
-index.html
-src/
-├── main.js
-├── style.css
-├── assets/
-├── css/
-│   ├── base/
-│   │   ├── base.css
-│   │   ├── reset.css
-│   │   ├── typography.css
-│   │   └── variables.css
-│   ├── components/
-│   │   ├── buttons.css
-│   │   ├── cards.css
-│   │   ├── cookies.css
-│   │   ├── icons.css
-│   │   ├── inputs.css
-│   │   └── links.css
-│   └── layout/
-│       ├── footer.css
-│       ├── header.css
-│       ├── hero.css
-│       ├── productsection.css
-│       └── reviewsection.css
-├── modules/
-│   └── cookies.js
-assets/
-├── README.md
-├── png/
-└── svg/
-public/
-```
