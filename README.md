@@ -34,16 +34,6 @@ Once the design was complete, we documented and presented our work before **hand
 
 ---
 
-## 🚀 Features
-
-* Modern and playful Calippo Shots visual identity
-* Responsive website design
-* Product presentation
-* Customer reviews section
-* Clear navigation and structured content
-* Accessibility and performance testing
-
----
 
 ## 🛠️ Tech Stack
 
