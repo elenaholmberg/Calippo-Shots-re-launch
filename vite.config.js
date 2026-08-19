@@ -1,3 +1,3 @@
 import { defineConfig } from "vite"
 
-export default defineConfig({ base: "/fed25d-grafiska-verktyg-bleed-trim/" })
+export default defineConfig({ base: "/Calippo-Shots-re-launch/" })
