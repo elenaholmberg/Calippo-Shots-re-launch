@@ -1,4 +1,4 @@
-# calippo shotts
+# calippo shots
 This is a one-page snapshot of a potential promotion for the return of the popular ice cream that got discontinued in 2020, and after rumors of its return we made this site snapshot as a suggestion for what a return could look like, with some popular flavours from the CocaCola company.
 
 ---
